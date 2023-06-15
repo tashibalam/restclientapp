@@ -1,0 +1,9 @@
+
+th, td {
+  border: 1px solid rgb(42, 8, 196);
+  padding: 8px;
+}
+
+thead th {
+  width: 25%;
+}
